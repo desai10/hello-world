@@ -1,2 +1,3 @@
 # hello-world
 My first one...
+This is my first repository. Trying out GitHub for the first time. I think I'm going to love this platform.
